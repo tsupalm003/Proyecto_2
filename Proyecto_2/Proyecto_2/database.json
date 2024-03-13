@@ -1,0 +1,16 @@
+{
+    "data": [
+        {
+            "nombre": "peras",
+            "categoria": "frutas",
+            "cantidad_en_stock": 12,
+            "precio": 1.0
+        },
+        {
+            "nombre": "duraznos",
+            "categoria": "12",
+            "cantidad_en_stock": 12,
+            "precio": 4.0
+        }
+    ]
+}
